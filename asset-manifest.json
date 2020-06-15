@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Elisha18/ReactApp/static/css/main.b1d4561a.chunk.css",
+    "main.js": "/Elisha18/ReactApp/static/js/main.d7881506.chunk.js",
+    "main.js.map": "/Elisha18/ReactApp/static/js/main.d7881506.chunk.js.map",
+    "runtime-main.js": "/Elisha18/ReactApp/static/js/runtime-main.572ccc46.js",
+    "runtime-main.js.map": "/Elisha18/ReactApp/static/js/runtime-main.572ccc46.js.map",
+    "static/css/2.ae60b535.chunk.css": "/Elisha18/ReactApp/static/css/2.ae60b535.chunk.css",
+    "static/js/2.ce4626c5.chunk.js": "/Elisha18/ReactApp/static/js/2.ce4626c5.chunk.js",
+    "static/js/2.ce4626c5.chunk.js.map": "/Elisha18/ReactApp/static/js/2.ce4626c5.chunk.js.map",
+    "index.html": "/Elisha18/ReactApp/index.html",
+    "precache-manifest.c717eb1a184e54af31a506d6a6cde441.js": "/Elisha18/ReactApp/precache-manifest.c717eb1a184e54af31a506d6a6cde441.js",
+    "service-worker.js": "/Elisha18/ReactApp/service-worker.js",
+    "static/css/2.ae60b535.chunk.css.map": "/Elisha18/ReactApp/static/css/2.ae60b535.chunk.css.map",
+    "static/css/main.b1d4561a.chunk.css.map": "/Elisha18/ReactApp/static/css/main.b1d4561a.chunk.css.map",
+    "static/js/2.ce4626c5.chunk.js.LICENSE.txt": "/Elisha18/ReactApp/static/js/2.ce4626c5.chunk.js.LICENSE.txt",
+    "static/media/Human_Medical_Background_1_Videvo.mp4": "/Elisha18/ReactApp/static/media/Human_Medical_Background_1_Videvo.6870ef19.mp4",
+    "static/media/avatar.png": "/Elisha18/ReactApp/static/media/avatar.d432d802.png",
+    "static/media/doctorVisit.jpg": "/Elisha18/ReactApp/static/media/doctorVisit.71070e88.jpg",
+    "static/media/font-awesome.css": "/Elisha18/ReactApp/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.svg": "/Elisha18/ReactApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.572ccc46.js",
+    "static/css/2.ae60b535.chunk.css",
+    "static/js/2.ce4626c5.chunk.js",
+    "static/css/main.b1d4561a.chunk.css",
+    "static/js/main.d7881506.chunk.js"
+  ]
+}
