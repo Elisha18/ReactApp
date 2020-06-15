@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+Here is the screenshot of how the UI looks after fetching the API data using Axios. 
+
+#Homepage
+![Homepage](page1.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
