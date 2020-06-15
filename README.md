@@ -7,8 +7,8 @@ Here is the screenshot of how the UI looks after fetching the API data using Axi
 ![Homepage](page1.jpg)
 
 
-#Page2 - displaying the data fetched from the API using Axios library
-![Page2](page2with footer.jpg)
+#Page 2 - displaying the data fetched from the API using Axios library
+![Page 2](page2footer.jpg)
 
 
 #Page 3 - On clicking the name in the list displayed in Page 2, the page will be redirected to profile dashboard displaying the complete  details of the clients.  
