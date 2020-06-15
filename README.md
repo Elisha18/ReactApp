@@ -7,7 +7,6 @@ Here is the screenshot of how the UI looks after fetching the API data using Axi
 ![Homepage](page1.jpg)
 
 
-#Inside pages
 #Page 2 - displaying the data fetched from the API using Axios library
 ![Page 2](page2with footer.jpg)
 
