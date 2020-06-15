@@ -1,0 +1,16 @@
+.footer{
+    background-color: #282c34;
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    font-family: cursive;
+    bottom: 0rem;
+    position: relative;
+    height: 8rem;
+    padding:2rem;
+    width:100vw;
+}
+.icon{
+    color:#fff;
+    margin-left: 20px;
+}

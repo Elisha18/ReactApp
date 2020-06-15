@@ -1,0 +1,129 @@
+.dashboard{
+    margin:0;
+    padding:0;
+    height:100vh;
+    display:flex;
+    
+}
+
+.dashboard .sidebar{
+    background:rgb(4, 92, 92);
+    margin-top:4.2rem;
+    padding-top:30px;
+    position:relative;
+    left:0;
+    width:21rem;
+    /* height:87.3%; */
+}
+
+.dashboard .sidebar .profile_image{
+    width:143px;
+    height:143px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+
+.dashboard .sidebar h4{
+    color:#fff;
+    margin-top:0;
+    margin-bottom:20px;
+}
+
+.dashboard .sidebar a{
+    color:#fff;
+    display:block;
+    width:100%;
+    line-height: 43px;
+    text-decoration:none;
+    padding-left:23px;
+    box-sizing:border-box;
+    transition: background-color 0.5s;
+}
+.dashboard .sidebar a span{
+    font-size:13px;
+}
+.sidebar a:hover{
+    background-color: #2f323A;
+}
+
+.sidebar i{
+    padding-right:13px;
+}
+
+.dashboard .card{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    background-color:#eee;
+    padding: 0 1.5rem;
+    float: right;
+   
+}
+
+.card .blog-post{
+    /* margin-top:5rem;
+    margin-right: 10px; */
+    width:92%;
+    height: 50vh;
+    max-width:98rem;
+    padding:5rem;
+    background-color: #ffff;
+    box-shadow: 0 1.4rem 8rem rgba(0,0,0,.2);
+    display:flex;
+    align-items: center;
+    /* border-radius:8rem; */
+}
+
+.blog-post_img .image{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    display:block;
+    border-radius: .8rem;
+}
+
+.blog-post_img{
+    min-width: 15rem;
+    max-width: 15rem;
+    height: 13rem;
+    transform:translateX(-8rem);
+    position:relative;
+}
+
+.blog-post_img::before{
+    content:'';
+    width:100%;
+    height:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    background:linear-gradient(to right,rgba(79,172,254,.5), rgba(0,242,254,.5)); 
+    box-shadow: .5rem .5rem 3rem 1px rgba(0,0,0,.05);
+    border-radius: .8rem;
+}
+
+.blog-post .blog-post_date span{
+    display:block;
+    color: rgba(0,0,0,.5);
+    font-size:1.6rem;
+    font-weight: 600;
+    margin:.5rem;
+}
+
+.blog-post_text{
+    margin-bottom:3rem;
+    font-size:1.4rem;
+    color:rgba(0,0,0,.7);
+}
+
+.blog-post_cta{
+    display:inline-block;
+    padding: 13px 2rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size:15px;
+    color: #fff;
+    background-image: linear-gradient(to right, #4facfe 0%, rgb(4, 92, 92) 56%);
+    border-radius: .8rem;
+}
