@@ -6,6 +6,12 @@ Here is the screenshot of how the UI looks after fetching the API data using Axi
 #Homepage
 ![Homepage](page1.jpg)
 
+
+#Inside pages
+![Inside pages](page.jpg)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
