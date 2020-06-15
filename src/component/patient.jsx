@@ -17,8 +17,8 @@ class Patient extends Component {
      async componentDidMount(){
         const {data} = await axios.get("http://localhost:8888/Patient", {
             auth: {
-                username: 'root',
-                password: 'secret',
+                username: '*******',      //here username and password will be provided to the user,can be removed if not neccessary
+                password: '*******',
               }
             }).catch(function(error){
                 console.log(error);
