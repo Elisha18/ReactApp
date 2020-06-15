@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project uses third party dependencies for Lodash and Axios.
 
 ## Description
 Here is the screenshot of how the UI looks after fetching the API data using Axios. 
