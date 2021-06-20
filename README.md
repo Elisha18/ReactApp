@@ -1,4 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project uses third party dependencies for Lodash and Axios.
+
+## Description
+Here is the screenshot of how the UI looks after fetching the API data using Axios. 
+
+#Homepage
+![Homepage](page1.jpg)
+
+
+
+
+#Page 2 - displaying the data fetched from the API using Axios library
+![Page 2](page2footer.jpg)
+
+
+
+
+#Page 3 - On clicking the name in the list displayed in Page 2, the page will be redirected to profile dashboard displaying the complete  details of the clients.  
+![Page 3](page3.jpg)
+
+
 
 ## Available Scripts
 
