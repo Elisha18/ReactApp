@@ -1,9 +1,9 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import _ from 'lodash';
 const Table = (props) => {
-    const {data} = props;
-    return ( 
+    const { data } = props;
+    return (
         <table className="table table-hover">
             <thead>
                 <tr>
@@ -12,15 +12,16 @@ const Table = (props) => {
                 </tr>
             </thead>
             <tbody>
-                {data.map(item=>(
+                {data.map(item => (
                     <tr>
-                        <td>{item.resource.id}</td>                           
-                        <td><Link to={`/patient/${item.resource.id}`}>{_.get(item,"resource.name[0].given","[Name Unknown]")}</Link></td>                                                     
+                        <td>{item.id}</td>
+                        <td><Link to={`/patient/${item.id}`}>{item.name}</Link></td>
                     </tr>
-                ))}  
+                ))}
             </tbody>
         </table>
-     );
+    );
 }
- 
+
 export default Table;
+// _.get(item, "resource.name[0].given", "[Name Unknown]")
